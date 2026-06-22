@@ -21,7 +21,7 @@
   "name"        : "Vitto Anthony Mahardika",
   "university"  : "Bina Nusantara University",
   "major"       : "Information Systems",
-  "location"    : "West Java, Indonesia 🇮🇩",
+  "location"    : "Jakarta, Indonesia 🇮🇩",
   "status"      : "actively seeking internship in data & consulting",
   "interests"   : ["Data Analytics", "Business Intelligence", "UI/UX", "Case Competitions"],
   "fun_fact"    : "I published an IEEE paper before landing my first internship."
