@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=data+%2B+design+%2B+decisions;Information+Systems+&+Management+%40+BINUS;analyst+in+the+making+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=data+%2B+design+%2B+decisions;Information+Systems+%40+BINUS;analyst+in+the+making+%F0%9F%93%8A" alt="Typing SVG" />
 
 <br/>
 
