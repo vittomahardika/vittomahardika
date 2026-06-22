@@ -6,7 +6,7 @@
 
 **Vitto Anthony Mahardika · vittoanthony**
 
-📍 West Java, Indonesia · 🎓 Bina Nusantara University
+📍 Jakarta, Indonesia · 🎓 Bina Nusantara University
 
 *somewhere between a student, an analyst, and a case competition grinder*
 
